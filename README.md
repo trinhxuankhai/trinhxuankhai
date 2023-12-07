@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+    <h1>Hi, I am Khai</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I'm an undergraduate student with a keen interest in deep learning and machine learning.<br />
+        I enjoy taking on side projects and sharing with people what I know.</p>
+    <div>
+        <a href="trinhxuankhai2310@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+    </div>
+</div>
 
-<!--
-**trinhxuankhai/trinhxuankhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on AI projects.</li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="trinhxuankhai2310@gmail.com" target="_blank">trinhxuankhai2310@gmail.com</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>🧰 Languages and Tools</h2>
+        <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=github,c,cpp,pytorch,tensorflow,py" />
+        </a>
+        </p>
+    </div>
+    <div>
+        <h2><img align="center" width="35"
+                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Highlighted Project</h2>
+        <p align="center">
+            <a href="https://github.com/AIVIETNAMResearch/VN_Multi_User_Video_Search">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIVIETNAMResearch&repo=VN_Multi_User_Video_Search&theme=dark" /></a>
+            <a href="https://github.com/trinhxuankhai/ZaloAI2023">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=ZaloAI2023&theme=dark" /></a>
+            <a href="https://github.com/nguyen-brat/COVID-QU-Ex-Segmentation">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-brat&repo=COVID-QU-Ex-Segmentation&theme=dark" /></a>
+        </p>
+    </div>
+</div>
