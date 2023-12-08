@@ -41,6 +41,8 @@
                     src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=ZaloAI2023&theme=dark" /></a>
             <a href="https://github.com/nguyen-brat/COVID-QU-Ex-Segmentation">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-brat&repo=COVID-QU-Ex-Segmentation&theme=dark" /></a>
+            <a href="https://github.com/trinhxuankhai/YoloTransformer">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=YoloTransformer&theme=dark" /></a>
         </p>
     </div>
 </div>
