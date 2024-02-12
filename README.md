@@ -2,12 +2,8 @@
     <h1>Hi, I am Khai</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I'm an undergraduate student with a keen interest in deep learning and machine learning.<br />
+        I'm an undergraduate student with a keen interest in machine learning and deep learning specializing in computer vision.<br />
         I enjoy taking on side projects and sharing with people what I know.</p>
-    <div>
-        <a href="trinhxuankhai2310@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-    </div>
 </div>
 
 <div>
@@ -19,7 +15,7 @@
             <li> 👨🏻‍💻 I'm currently working on AI projects.</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="trinhxuankhai2310@gmail.com" target="_blank">trinhxuankhai2310@gmail.com</a></li>
+                <a href="mailto:trinhxuankhai2310@gmail.com" target="_blank">trinhxuankhai2310@gmail.com</a
         </ul>
     </div>
     <div>
