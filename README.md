@@ -22,7 +22,7 @@
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=github,c,cpp,pytorch,tensorflow,py" />
+            <img src="https://skillicons.dev/icons?i=github,c,cpp,pytorch,tensorflow,py,flask,opencv,sklearn" />
         </a>
         </p>
     </div>
