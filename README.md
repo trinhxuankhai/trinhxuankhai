@@ -31,14 +31,14 @@
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Highlighted Project</h2>
         <p align="center">
             <a href="https://github.com/AIVIETNAMResearch/VN_Multi_User_Video_Search">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIVIETNAMResearch&repo=VN_Multi_User_Video_Search&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIVIETNAMResearch&repo=VN_Multi_User_Video_Search&theme=white" /></a>
             <a href="https://github.com/trinhxuankhai/ZaloAI2023">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=ZaloAI2023&theme=dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=ZaloAI2023&theme=white" /></a>
             <a href="https://github.com/trinhxuankhai/YoloTransformer">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=YoloTransformer&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinhxuankhai&repo=YoloTransformer&theme=white" /></a>
             <a href="https://github.com/nguyen-brat/COVID-QU-Ex-Segmentation">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-brat&repo=COVID-QU-Ex-Segmentation&theme=dark" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyen-brat&repo=COVID-QU-Ex-Segmentation&theme=white" /></a>
         </p>
     </div>
 </div>
