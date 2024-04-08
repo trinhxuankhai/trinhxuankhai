@@ -12,7 +12,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on AI projects.</li>
+            <li> 👨🏻‍💻 I'm currently working on generative AI specializing in text and image generation.</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:trinhxuankhai2310@gmail.com" target="_blank">trinhxuankhai2310@gmail.com</a
