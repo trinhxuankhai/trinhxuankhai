@@ -41,3 +41,10 @@
         </p>
     </div>
 </div>
+
+<div>
+    <h2>⭐ Github Stats</h2>
+    <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=trinhxuankhai&show_icons=true&locale=en" alt="trinhxuankhai" />
+     </p>
+<div>
