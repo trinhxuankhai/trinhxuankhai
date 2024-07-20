@@ -19,6 +19,13 @@
         </ul>
     </div>
     <div>
+        <h2>Connect with me</h2>
+        <p align="center">
+        <a href="https://www.linkedin.com/in/kh%E1%BA%A3i-tr%E1%BB%8Bnh-xu%C3%A2n-269546304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khải-trịnh-xuân-269546304" height="30" width="40" /></a>
+        <a href="https://www.facebook.com/xuankhai.trinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xuankhai.trinh" height="30" width="40" /></a>
+        </p>
+    </div>
+    <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
         <a href="https://skillicons.dev">
